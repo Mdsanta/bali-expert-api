@@ -1,0 +1,10 @@
+{
+  "name": "bali-expert-api",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.2",
+    "pdfkit": "^0.13.0",
+    "node-fetch": "^3.3.2"
+  }
+}
